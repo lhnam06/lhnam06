@@ -7,5 +7,8 @@ Hi, I'm Nam 👋  <br>2nd-year Computer Science student at VNU-HCM University of
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-### 🔝 Top Contributed Repo
-![](https://github-readme-activity-graph.vercel.app/graph?username=lhnam06&theme=react-dark&hide_border=true)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lhnam06&show_icons=true&theme=dracula&include_all_commits=false&count_private=false&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lhnam06&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+</div>
