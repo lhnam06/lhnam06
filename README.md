@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Nam 👋  <br>2nd-year Computer Science student at VNU-HCM University of Science (HCMUS).<br><br>I'm currently focusing on **Cybersecurity** and **Software Development**, with an interest in building intelligent and scalable systems.<br><br>Projects I've worked on:<br>- FAInance: A virtual financial advisor web app for managing income and expenses<br>- Careermate: An AI-driven career simulation platform for students<br>- VietJourney: A real-time collaborative travel itinerary planner for exploring Vietnam
+Hi, I'm Nam 👋  <br>3rd-year Computer Science student at VNU-HCM University of Science (HCMUS).<br><br>I'm currently focusing on **Cybersecurity** and **Software Development**, with an interest in building intelligent and scalable systems.<br><br>Projects I've worked on:<br>- FAInance: A virtual financial advisor web app for managing income and expenses<br>- Careermate: An AI-driven career simulation platform for students<br>- VietJourney: A real-time collaborative travel itinerary planner for exploring Vietnam
 
 
 ## 🌐 Socials:
