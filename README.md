@@ -1,21 +1,45 @@
-# 💫 About Me:
-Hi, I'm Nam 👋  <br>3rd-year Computer Science student at VNU-HCM University of Science (HCMUS).<br>
-<br>I'm currently focusing on **Cybersecurity** and **Software Development**, with an interest in building intelligent and scalable systems.<br>
-<br>Projects I've worked on:<br>
-- FAInance: A virtual financial advisor web app for managing income and expenses<br>
-- Careermate: An AI-driven career simulation platform for students<br>
-- VietJourney: A real-time collaborative travel itinerary planner for exploring Vietnam<br>
-In the following year, I am aiming to earn an internship as a **Backend Development**, hoping to build real-world application practices.
+# About Me
 
+Hi, I'm Nam 👋 <br>
+3rd-year **Information Technology student** at VNU-HCM University of Science (HCMUS).<br>
+<br>
+I'm currently focusing on **Cybersecurity** and **Software Development**, with an interest in building intelligent and scalable systems.<br>
+<br>
 
+### 🚀 Projects
+- **FAInance** — An AI-powered financial advisor for managing income and expenses
+- **CareerMate** — An AI-driven career simulation platform for students
+- **VietJourney** — A real-time collaborative travel itinerary planner for exploring Vietnam
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hoangnam0168788@gmail.com) 
+<br>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+I'm currently seeking a **Backend Developer internship** to gain hands-on experience in building real-world software systems.
+
+## 🌐 Socials
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hoangnam0168788@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nam-le-hoang/)
+
+## 💻 Tech Stack
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lhnam06&show_icons=true&theme=dracula&include_all_commits=false&count_private=false&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lhnam06&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=lhnam06&show_icons=true&theme=dracula&include_all_commits=false&count_private=false&hide_border=true"
+    height="160"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=lhnam06&layout=compact&langs_count=6&theme=dracula&hide_border=true"
+    height="160"
+    alt="Top Languages"
+  />
 </div>
